@@ -15,6 +15,7 @@ body{
     border-radius: 25px;
     width: 10%;
     height: auto;
+    border: 2px solid maroon;
   } 
 .classInfo{
     text-align: center;
