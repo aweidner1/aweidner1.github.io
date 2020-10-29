@@ -11,12 +11,8 @@ body{
     background-color: gainsboro;
 }
 .position {
-    position: absolute;
     float: right;
-    left: 550px;
     border-radius: 25px;
-    width: 15%;
-    height: auto;
   } 
 .classInfo{
     text-align: center;
