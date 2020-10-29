@@ -2,7 +2,8 @@ p {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 h1,h3 {
-    background-color: maroon;
+    border-style: solid;
+    border-color: maroon;
     border-radius: 15px 50px;
     text-align: center;
 }
