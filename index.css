@@ -3,6 +3,7 @@ p {
 }
 h1 {
     background-color: maroon;
+    border-radius: 15px 50px;
 }
 body{
     background-color: gainsboro;
