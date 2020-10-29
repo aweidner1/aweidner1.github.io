@@ -8,6 +8,6 @@ body{
     background-color: gainsboro;
 }
 .position {
-    position: relative;
-    right: 200;
+    position: fixed;
+    left: 150px;
   } 
