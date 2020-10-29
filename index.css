@@ -9,5 +9,6 @@ body{
 }
 .position {
     position: fixed;
-    left: 250px;
+    left: 350px;
+    border-radius: 25px;
   } 
