@@ -14,13 +14,7 @@ body{
     float: right;
     border-radius: 25px;
     width: 15%;
-    top: 50px;
     height: auto;
-    /*
-    left: 550px;
-    position: absolute;
-    */
-
   } 
 .classInfo{
     text-align: center;
