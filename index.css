@@ -14,6 +14,8 @@ body{
     position: absolute;
     left: 550px;
     border-radius: 25px;
+    width: 25%;
+    height: auto;
   } 
 .classInfo{
     text-align: center;
