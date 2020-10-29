@@ -13,6 +13,9 @@ body{
 .position {
     float: right;
     border-radius: 25px;
+    width: 15%;
+    height: auto;
+
   } 
 .classInfo{
     text-align: center;
