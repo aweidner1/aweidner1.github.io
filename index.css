@@ -12,6 +12,7 @@ body{
 }
 .position {
     position: absolute;
+    float: right;
     left: 550px;
     border-radius: 25px;
     width: 15%;
