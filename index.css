@@ -4,6 +4,7 @@ p {
 h1,h3 {
     background-color: maroon;
     border-radius: 15px 50px;
+    text-align: center;
 }
 body{
     background-color: gainsboro;
