@@ -1,7 +1,7 @@
 p {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-h1 {
+h1,h3 {
     background-color: maroon;
     border-radius: 15px 50px;
 }
@@ -13,3 +13,7 @@ body{
     left: 550px;
     border-radius: 25px;
   } 
+.classInfo{
+    text-align: center;
+
+}
