@@ -1,5 +1,5 @@
-p {
-    font-family: Georgia, serif;
+body {
+    background-color: gainsboro;
 }
 h1 {
     border-style: solid;
@@ -7,17 +7,17 @@ h1 {
     border-radius: 15px 50px;
     text-align: center;
 }
-body{
-    background-color: gainsboro;
+p {
+    font-family: Georgia, serif;
 }
-.position {
+.profilePic {
     float: right;
     border-radius: 25px;
     width: 10%;
     height: auto;
     border: 2px solid maroon;
   } 
-.classInfo{
+#contact {
     text-align: center;
-
 }
+
