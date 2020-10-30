@@ -7,11 +7,6 @@ h1 {
     border-radius: 15px 50px;
     text-align: center;
 }
-#headerAboutMe {
-    box-sizing: content-box;
-    width: 50%;
-    border: 5px solid maroon;
-}
 p {
     font-family: Georgia, serif;
 }
