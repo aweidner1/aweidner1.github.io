@@ -16,6 +16,7 @@ p {
     width: 12%;
     height: auto;
     border: 2px solid maroon;
+    margin: 0px, 0px, 15px, 15px;
   } 
 #contact {
     text-align: center;
